@@ -4,7 +4,7 @@ import pandas as pd
 
 # Page configuration
 st.set_page_config(
-    page_title="User-Friendly Stock Explorer",
+    page_title="Stock Explorer",
     page_icon="📈",
     layout="wide"
 )
