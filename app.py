@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("📈 User-Friendly Stock Explorer")
+st.title("📈Stock Explorer")
 st.write("Explore real stock market data without needing to memorize ticker symbols!")
 
 # --- POPULAR STOCKS DICTIONARY ---
